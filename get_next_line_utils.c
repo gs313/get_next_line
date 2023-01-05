@@ -6,11 +6,11 @@
 /*   By: scharuka <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/26 15:12:35 by scharuka          #+#    #+#             */
-/*   Updated: 2022/12/27 17:11:32 by scharuka         ###   ########.fr       */
+/*   Updated: 2023/01/05 16:50:42 by scharuka         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"get_next_line_bonus.h"
+#include"get_next_line.h"
 
 void	*ft_memcpy(void *dst, const void *src, size_t n)
 {
